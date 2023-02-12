@@ -1,0 +1,217 @@
+<ns:Documents xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+	<ns:Owner>
+		<ns:FSRAR_ID>010060688292</ns:FSRAR_ID>
+	</ns:Owner>
+	<ns:Document>
+		<ns:WayBill_v4 xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+			<wb:Identity>13584152</wb:Identity>
+			<wb:Header xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+				<wb:NUMBER>7915-М</wb:NUMBER>
+				<wb:Date>2023-01-20</wb:Date>
+				<wb:ShippingDate>2023-01-20</wb:ShippingDate>
+				<wb:Type>WBInvoiceFromMe</wb:Type>
+				<wb:Shipper xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+					<oref:UL xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+						<oref:ClientRegId>010060688292</oref:ClientRegId>
+						<oref:FullName>Общество с ограниченной ответственностью "Торговый Дом РОССИЧ"</oref:FullName>
+						<oref:ShortName>ООО "ТД РОССИЧ"</oref:ShortName>
+						<oref:INN>1658067670</oref:INN>
+						<oref:KPP>165845001</oref:KPP>
+						<oref:address>
+							<oref:Country>643</oref:Country>
+							<oref:RegionCode>16</oref:RegionCode>
+							<oref:description>Россия,,Татарстан Республика,,Казань Город,,Северо-Западная Улица,19 Дом  , | литера Г, этаж 1, нежилое помещение № 500, номера помещений по плану 3 (склад № 1) (S=681,2 кв.м), 8 (склад № 2) (S=4046,9 кв.м), 7 (склад № 3) (S=967,3 кв.м)</oref:description>
+						</oref:address>
+					</oref:UL>
+				</wb:Shipper>
+				<wb:Consignee xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+					<oref:UL xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+						<oref:ClientRegId>020001193290</oref:ClientRegId>
+						<oref:FullName>ООО "Меркурий"</oref:FullName>
+						<oref:ShortName>ООО "Меркурий"</oref:ShortName>
+						<oref:INN>1656113000</oref:INN>
+						<oref:KPP>165845003</oref:KPP>
+						<oref:address>
+							<oref:Country>643</oref:Country>
+							<oref:RegionCode>16</oref:RegionCode>
+							<oref:description>Татарстан Республика, , Казань Город, , Северо-Западная Улица, 19,</oref:description>
+						</oref:address>
+					</oref:UL>
+				</wb:Consignee>
+				<wb:Transport>
+					<wb:TRAN_TYPE>413</wb:TRAN_TYPE>
+					<wb:ChangeOwnership>NotChange</wb:ChangeOwnership>
+					<wb:TRANSPORT_TYPE>car</wb:TRANSPORT_TYPE>
+					<wb:TRAN_COMPANY>ООО "ТОР"</wb:TRAN_COMPANY>
+					<wb:TRANSPORT_REGNUMBER>Вис А232ЕХ716</wb:TRANSPORT_REGNUMBER>
+					<wb:TRAN_CUSTOMER>Общество с ограниченной ответственностью "Торговый Дом РОССИЧ"</wb:TRAN_CUSTOMER>
+					<wb:TRAN_DRIVER>Тюшин А.В.</wb:TRAN_DRIVER>
+					<wb:TRAN_LOADPOINT>РОССИЯ,420051,ТАТАРСТАН РЕСП,КАЗАНЬ Г,СЕВЕРО-ЗАПАДНАЯ УЛ,Д. 19,ЛИТЕРА Г, ЭТАЖ 1, НЕЖИЛОЕ ПОМЕЩЕНИЕ № 500, НОМЕРА ПОМЕЩЕНИЙ ПО ПЛАНУ 3 (СКЛАД № 1) (S=681,2 КВ.М), 8 (СКЛАД №2) (S=4046,9 КВ.М), 7 (СКЛАД № 3) (S=967,3 КВ.М)</wb:TRAN_LOADPOINT>
+					<wb:TRAN_UNLOADPOINT>Республика Татарстан, г.Казань, ул.Северо-Западная, д.19</wb:TRAN_UNLOADPOINT>
+					<wb:TRAN_FORWARDER>ТОР Тюшин А.В.</wb:TRAN_FORWARDER>
+				</wb:Transport>
+			</wb:Header>
+			<wb:Content xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+				<wb:Position>
+					<wb:Identity>1</wb:Identity>
+					<wb:Product>
+						<pref:Type>АП</pref:Type>
+						<pref:FullName>Коньяк армянский ординарный "Поздравительный" выдержка 3 года</pref:FullName>
+						<pref:AlcCode>0300005951190000085</pref:AlcCode>
+						<pref:Capacity>0.200000</pref:Capacity>
+						<pref:AlcVolume>40.000000</pref:AlcVolume>
+						<pref:ProductVCode>2291</pref:ProductVCode>
+						<pref:UnitType>Packed</pref:UnitType>
+						<pref:Producer>
+							<oref:TS xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+								<oref:ClientRegId>050000050951</oref:ClientRegId>
+								<oref:FullName>ООО "Прошянский коньячный завод"</oref:FullName>
+								<oref:ShortName>Прошянский коньяч.завод</oref:ShortName>
+								<oref:address>
+									<oref:Country>051</oref:Country>
+									<oref:description>0088, г. Ереван, Ачапняк, Аштаракское шоссе 2А, Республика Армения</oref:description>
+								</oref:address>
+							</oref:TS>
+						</pref:Producer>
+					</wb:Product>
+					<wb:Quantity>1</wb:Quantity>
+					<wb:Price>191.0000</wb:Price>
+					<wb:Party>6450821</wb:Party>
+					<wb:EAN13>4850025635147</wb:EAN13>
+					<wb:FARegId>FA-000000049370392</wb:FARegId>
+					<wb:InformF2>
+						<ce:F2RegId>FB-000005095157197</ce:F2RegId>
+						<ce:MarkInfo>
+							<ce:boxpos xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+								<ce:boxnumber>01006068829230123004130459</ce:boxnumber>
+								<ce:amclist xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+									<ce:amc>1983037192048505210012GFHRCQOCH5O7Z2QII653SY2FI4IBGXLFIV7ZGUPL72D7NBQAYHJ2TYOHIQLW2CXYX7OAJTD33Q6A7WTK45WAAHVX4QAVRWCKH6SZ5TEBVSCBIOX2JDDGZVVT7L7RNI3Y</ce:amc>
+								</ce:amclist>
+							</ce:boxpos>
+						</ce:MarkInfo>
+					</wb:InformF2>
+				</wb:Position>
+				<wb:Position>
+					<wb:Identity>2</wb:Identity>
+					<wb:Product>
+						<pref:Type>АП</pref:Type>
+						<pref:FullName>Коньяк армянский ординарный "Поздравительный" выдержка 5 лет</pref:FullName>
+						<pref:AlcCode>0300005951190000094</pref:AlcCode>
+						<pref:Capacity>0.200000</pref:Capacity>
+						<pref:AlcVolume>40.000000</pref:AlcVolume>
+						<pref:ProductVCode>2291</pref:ProductVCode>
+						<pref:UnitType>Packed</pref:UnitType>
+						<pref:Producer>
+							<oref:TS xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+								<oref:ClientRegId>050000050951</oref:ClientRegId>
+								<oref:FullName>ООО "Прошянский коньячный завод"</oref:FullName>
+								<oref:ShortName>Прошянский коньяч.завод</oref:ShortName>
+								<oref:address>
+									<oref:Country>051</oref:Country>
+									<oref:description>0088, г. Ереван, Ачапняк, Аштаракское шоссе 2А, Республика Армения</oref:description>
+								</oref:address>
+							</oref:TS>
+						</pref:Producer>
+					</wb:Product>
+					<wb:Quantity>1</wb:Quantity>
+					<wb:Price>198.0000</wb:Price>
+					<wb:Party>6450831</wb:Party>
+					<wb:EAN13>4850025635154</wb:EAN13>
+					<wb:FARegId>FA-000000049370393</wb:FARegId>
+					<wb:InformF2>
+						<ce:F2RegId>FB-000005095157199</ce:F2RegId>
+						<ce:MarkInfo>
+							<ce:boxpos xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+								<ce:boxnumber>01006068829230123004130459</ce:boxnumber>
+								<ce:amclist xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+									<ce:amc>198302347690010421001Z6JI22K7FRUPYCVJ2F5QQLX2HU2YDV3C7EI7G2BXUVOVSZ6MHAMGNUQ453LYHSQZTWO4EOB6VP56GO6FAHUKSZPIGJGN2E4UR3ZHNRR542NYMUPWIOLWOQWFSK67A5DJI</ce:amc>
+								</ce:amclist>
+							</ce:boxpos>
+						</ce:MarkInfo>
+					</wb:InformF2>
+				</wb:Position>
+				<wb:Position>
+					<wb:Identity>3</wb:Identity>
+					<wb:Product>
+						<pref:Type>АП</pref:Type>
+						<pref:FullName>Вино игристое полусладкое белое "НАСЛЕДИЕ МАСТЕРА "ЛЕВЪ ГОЛИЦЫНЪ"</pref:FullName>
+						<pref:AlcCode>0000000000036230744</pref:AlcCode>
+						<pref:Capacity>0.750000</pref:Capacity>
+						<pref:AlcVolume>11.500000</pref:AlcVolume>
+						<pref:ProductVCode>440</pref:ProductVCode>
+						<pref:UnitType>Packed</pref:UnitType>
+						<pref:Producer>
+							<oref:UL xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+								<oref:ClientRegId>020000699457</oref:ClientRegId>
+								<oref:FullName>Закрытое Акционерное Общество "Игристые вина"</oref:FullName>
+								<oref:ShortName>ЗАО "Игристые вина"</oref:ShortName>
+								<oref:INN>7830001010</oref:INN>
+								<oref:KPP>780401001</oref:KPP>
+								<oref:address>
+									<oref:Country>643</oref:Country>
+									<oref:RegionCode>78</oref:RegionCode>
+									<oref:description>РОССИЯ,,САНКТ-ПЕТЕРБУРГ Г,,,,Свердловская набережная,34,,</oref:description>
+								</oref:address>
+							</oref:UL>
+						</pref:Producer>
+					</wb:Product>
+					<wb:Quantity>1</wb:Quantity>
+					<wb:Price>325.0000</wb:Price>
+					<wb:Party>6652081</wb:Party>
+					<wb:EAN13>4600632256941</wb:EAN13>
+					<wb:FARegId>FA-000000050163533</wb:FARegId>
+					<wb:InformF2>
+						<ce:F2RegId>FB-000005460210462</ce:F2RegId>
+						<ce:MarkInfo>
+							<ce:boxpos xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+								<ce:boxnumber>01006068829230123004130459</ce:boxnumber>
+								<ce:amclist xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+									<ce:amc>1934017245028410210015MASECQCZ4JI7XLOUFJBV7IYLQPCC2QIJFTYMKVOHRTSWQIDOJ5ZYEIB5EOKYNOOYZAJRZ6QMTPY3HMJYCON3DA4EFN2BU3EIFAVDHCZWORUCYRSXOCSGBWFEF6AWZ3RA</ce:amc>
+								</ce:amclist>
+							</ce:boxpos>
+						</ce:MarkInfo>
+					</wb:InformF2>
+				</wb:Position>
+				<wb:Position>
+					<wb:Identity>4</wb:Identity>
+					<wb:Product>
+						<pref:Type>АП</pref:Type>
+						<pref:FullName>Коньяк армянский марочный выдержанный высшего качества "КВВК" "Прадед" выдержка 8 лет</pref:FullName>
+						<pref:AlcCode>0300005951190000104</pref:AlcCode>
+						<pref:Capacity>0.500000</pref:Capacity>
+						<pref:AlcVolume>40.000000</pref:AlcVolume>
+						<pref:ProductVCode>2291</pref:ProductVCode>
+						<pref:UnitType>Packed</pref:UnitType>
+						<pref:Producer>
+							<oref:TS xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2">
+								<oref:ClientRegId>050000050951</oref:ClientRegId>
+								<oref:FullName>ООО "Прошянский коньячный завод"</oref:FullName>
+								<oref:ShortName>Прошянский коньяч.завод</oref:ShortName>
+								<oref:address>
+									<oref:Country>051</oref:Country>
+									<oref:description>0088, г. Ереван, Ачапняк, Аштаракское шоссе 2А, Республика Армения</oref:description>
+								</oref:address>
+							</oref:TS>
+						</pref:Producer>
+					</wb:Product>
+					<wb:Quantity>1</wb:Quantity>
+					<wb:Price>495.0000</wb:Price>
+					<wb:Party>6491311</wb:Party>
+					<wb:EAN13>4850015314380</wb:EAN13>
+					<wb:FARegId>FA-000000049468850</wb:FARegId>
+					<wb:InformF2>
+						<ce:F2RegId>FB-000005169222762</ce:F2RegId>
+						<ce:MarkInfo>
+							<ce:boxpos xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+								<ce:boxnumber>01006068829230123004130459</ce:boxnumber>
+								<ce:amclist xmlns:ce="http://fsrar.ru/WEGAIS/CommonV3" xmlns:wb="http://fsrar.ru/WEGAIS/TTNSingle_v4" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+									<ce:amc>1874108511035304220014BBOMFCNYV2TPETJC2KO2ICOMUNQI5V2ICYI7HLVETBMPXAKMSDKR4QGARA23UA3G5H4QBZK7H4KGGDQ3F2HLX75JXULUYBJPED5M2TMHCE33XA6YFL5SVQ4MWSSMOKWI</ce:amc>
+								</ce:amclist>
+							</ce:boxpos>
+						</ce:MarkInfo>
+					</wb:InformF2>
+				</wb:Position>
+			</wb:Content>
+		</ns:WayBill_v4>
+	</ns:Document>
+</ns:Documents>

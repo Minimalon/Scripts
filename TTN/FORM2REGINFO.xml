@@ -1,0 +1,112 @@
+<ns:Documents xmlns:wbr="http://fsrar.ru/WEGAIS/TTNInformF2Reg" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns:Owner>
+    <ns:FSRAR_ID>3463047</ns:FSRAR_ID>
+  </ns:Owner>
+  <ns:Document>
+    <ns:TTNInformF2Reg>
+      <wbr:Header xmlns:wbr="http://fsrar.ru/WEGAIS/TTNInformF2Reg" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <wbr:Identity>00000638693-21.12.2022-12:26:51</wbr:Identity>
+        <wbr:WBRegId>TTN-0605934725</wbr:WBRegId>
+        <wbr:EGAISFixNumber>WBF-202200576058514</wbr:EGAISFixNumber>
+        <wbr:EGAISFixDate>2022-12-21</wbr:EGAISFixDate>
+        <wbr:WBNUMBER>56/00084792</wbr:WBNUMBER>
+        <wbr:WBDate>2022-12-21</wbr:WBDate>
+        <wbr:Shipper>
+          <oref:UL xmlns:wbr="http://fsrar.ru/WEGAIS/TTNInformF2Reg" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <oref:ClientRegId>010060696386</oref:ClientRegId>
+            <oref:INN>1659091192</oref:INN>
+            <oref:KPP>163945001</oref:KPP>
+            <oref:FullName>Общество с ограниченной ответственностью "АЛКОТОРГ"</oref:FullName>
+            <oref:ShortName>ООО "АЛКОТОРГ"</oref:ShortName>
+            <oref:address>
+              <oref:Country>643</oref:Country>
+              <oref:RegionCode>16</oref:RegionCode>
+              <oref:description>Россия,,Татарстан Республика,,,,,,Тукаевский муниципальный район, Круглопольское сельское поселение, пос. Круглое Поле, ул. Раздольная, д. 1а | Распределительный центр "Круглое Поле", назначение: нежилое, лит. А, этаж 1, помещение № 1 (S=1980,0 кв. м)</oref:description>
+            </oref:address>
+          </oref:UL>
+        </wbr:Shipper>
+        <wbr:Consignee>
+          <oref:UL xmlns:wbr="http://fsrar.ru/WEGAIS/TTNInformF2Reg" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <oref:ClientRegId>020001112917</oref:ClientRegId>
+            <oref:INN>1658227108</oref:INN>
+            <oref:KPP>164645001</oref:KPP>
+            <oref:FullName>Общество с ограниченной ответственностью "Велес"</oref:FullName>
+            <oref:ShortName>ООО "Велес"</oref:ShortName>
+            <oref:address>
+              <oref:Country>643</oref:Country>
+              <oref:RegionCode>16</oref:RegionCode>
+              <oref:description>Татарстан Республика, Елабужский Район, Елабуга Город, , Марджани Улица, 7А,</oref:description>
+            </oref:address>
+          </oref:UL>
+        </wbr:Consignee>
+      </wbr:Header>
+      <wbr:Content xmlns:wbr="http://fsrar.ru/WEGAIS/TTNInformF2Reg" xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <wbr:Position>
+          <wbr:Identity>1</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747400</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-10-12</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>2</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747401</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-07</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>3</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747402</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-15</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>4</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747403</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-10-19</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>5</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747404</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-09-02</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>6</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747405</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-05</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>7</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747406</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-14</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>8</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747407</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-10-31</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>9</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747408</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-02</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>10</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747409</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-12-01</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>11</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747410</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-11-25</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>12</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747411</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-11-23</wbr:BottlingDate>
+        </wbr:Position>
+        <wbr:Position>
+          <wbr:Identity>13</wbr:Identity>
+          <wbr:InformF2RegId>FB-000005447747412</wbr:InformF2RegId>
+          <wbr:BottlingDate>2022-09-15</wbr:BottlingDate>
+        </wbr:Position>
+      </wbr:Content>
+    </ns:TTNInformF2Reg>
+  </ns:Document>
+</ns:Documents>

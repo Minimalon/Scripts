@@ -1,0 +1,298 @@
+<ns:Documents xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01">
+    <ns:Owner>
+        <ns:FSRAR_ID>3463047</ns:FSRAR_ID>
+    </ns:Owner>
+    <ns:Document>
+        <ns:ReplyRestsShop_v2>
+            <rst:RestsDate>2023-01-07T18:37:42.930</rst:RestsDate>
+            <rst:Products>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Водка "Стопарик"</pref:FullName>
+                        <pref:AlcCode>0011314000001189456</pref:AlcCode>
+                        <pref:Capacity>0.1000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>40.000</pref:AlcVolume>
+                        <pref:ProductVCode>200</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000120</oref:ClientRegId>
+                                <oref:INN>1326202276</oref:INN>
+                                <oref:KPP>132601001</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "Ликероводочный завод "Саранский"</oref:FullName>
+                                <oref:ShortName>ООО "ЛВЗ "Саранский"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>13</oref:RegionCode>
+                                    <oref:description>Россия,,Мордовия Республика,,Саранск Город,,Ленина Проспект,58А Дом ,</oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Напиток винный "Вермут Сальваторе белый"</pref:FullName>
+                        <pref:AlcCode>0014716000001378443</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>15.000</pref:AlcVolume>
+                        <pref:ProductVCode>462</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000274</oref:ClientRegId>
+                                <oref:INN>4705013292</oref:INN>
+                                <oref:KPP>470501001</oref:KPP>
+                                <oref:FullName>Акционерное общество "Бодегас Вальдепабло-Нева"</oref:FullName>
+                                <oref:ShortName>АО "Бодегас Вальдепабло-Нева"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>47</oref:RegionCode>
+                                    <oref:description>Россия,,Ленинградская Область,,,,,,Гатчинский муниципальный район, Гатчинское городское поселение, город Гатчина,
+                                        улица Рысева, дом 28 | (первый этаж: помещения 4, 8, 9; второй этаж: помещения 7, 8, 9, 22, 23, 24); дом 28а
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Напиток винный "Вермут Сальваторе красный"</pref:FullName>
+                        <pref:AlcCode>0014716000001378562</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>15.000</pref:AlcVolume>
+                        <pref:ProductVCode>462</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000274</oref:ClientRegId>
+                                <oref:INN>4705013292</oref:INN>
+                                <oref:KPP>470501001</oref:KPP>
+                                <oref:FullName>Акционерное общество "Бодегас Вальдепабло-Нева"</oref:FullName>
+                                <oref:ShortName>АО "Бодегас Вальдепабло-Нева"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>47</oref:RegionCode>
+                                    <oref:description>Россия,,Ленинградская Область,,,,,,Гатчинский муниципальный район, Гатчинское городское поселение, город Гатчина,
+                                        улица Рысева, дом 28 | (первый этаж: помещения 4, 8, 9; второй этаж: помещения 7, 8, 9, 22, 23, 24); дом 28а
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Вино столовое сухое белое"Шардоне"</pref:FullName>
+                        <pref:AlcCode>0123156000003033577</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>12.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000187</oref:ClientRegId>
+                                <oref:INN>2352034598</oref:INN>
+                                <oref:KPP>235201001</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "Кубань-Вино"</oref:FullName>
+                                <oref:ShortName>ООО "Кубань-Вино"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>23</oref:RegionCode>
+                                    <oref:description>РОССИЯ,,КРАСНОДАРСКИЙ КРАЙ,Темрюкский р-н,,Старотитаровская ст-ца,Заводская ул,2,,</oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Вино столовое сладкое красное"КАГОР"</pref:FullName>
+                        <pref:AlcCode>0123161000001920703</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>11.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000176</oref:ClientRegId>
+                                <oref:INN>2352039821</oref:INN>
+                                <oref:KPP>235201001</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "АПК Мильстрим-Черноморские вина"</oref:FullName>
+                                <oref:ShortName>ООО "АПК Мильстрим-Черноморские вина"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>23</oref:RegionCode>
+                                    <oref:description>Россия,,Краснодарский Край,Темрюкский Район,,Виноградный Поселок,Мичурина Улица,5Б Дом , | (за исключением склада,
+                                        расположенного в литере И - нежилом здании, на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и
+                                        склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый
+                                        номер: 23:30:0801003:933 | (за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м);
+                                        нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1,
+                                        инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | за исключением склада, расположенного в литере И на 1 этаже, №
+                                        по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая
+                                        809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Напиток винный "ЛАЗУРНАЯ ДОЛИНА полусладкий красный"</pref:FullName>
+                        <pref:AlcCode>0123161000001955902</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>10.000</pref:AlcVolume>
+                        <pref:ProductVCode>461</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010000000176</oref:ClientRegId>
+                                <oref:INN>2352039821</oref:INN>
+                                <oref:KPP>235201001</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "АПК Мильстрим-Черноморские вина"</oref:FullName>
+                                <oref:ShortName>ООО "АПК Мильстрим-Черноморские вина"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>23</oref:RegionCode>
+                                    <oref:description>Россия,,Краснодарский Край,Темрюкский Район,,Виноградный Поселок,Мичурина Улица,5Б Дом , | (за исключением склада,
+                                        расположенного в литере И - нежилом здании, на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и
+                                        склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый
+                                        номер: 23:30:0801003:933 | (за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м);
+                                        нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1,
+                                        инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | за исключением склада, расположенного в литере И на 1 этаже, №
+                                        по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая
+                                        809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Вермут сладкий белый "Мартини Бьянко"</pref:FullName>
+                        <pref:AlcCode>0150367000002772004</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>15.000</pref:AlcVolume>
+                        <pref:ProductVCode>462</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:FO xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>050000003908</oref:ClientRegId>
+                                <oref:FullName>" Мартини и Росси С.п.А. "</oref:FullName>
+                                <oref:ShortName>Мартини и Росси</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>380</oref:Country>
+                                    <oref:description>П. ца Луиджи Росси 2, Пессионе, Торино, Италия</oref:description>
+                                </oref:address>
+                            </oref:FO>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Вино столовое полусладкое белое "Шардоне"</pref:FullName>
+                        <pref:AlcCode>0323141000001285825</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>12.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010060692492</oref:ClientRegId>
+                                <oref:INN>2352034598</oref:INN>
+                                <oref:KPP>235245003</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "Кубань-Вино"</oref:FullName>
+                                <oref:ShortName>ООО "Кубань-Вино"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>23</oref:RegionCode>
+                                    <oref:description>РОССИЯ,,КРАСНОДАРСКИЙ КРАЙ,Темрюкский р-н,Темрюк г,,Западная ул, 35,, | (склад готовой продукции, кадастровый номер
+                                        23:30:1101018:59) | (склад готовой продукции, кадастровый номер 23:30:11018:59)
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+                <rst:ShopPosition xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                  xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <rst:Quantity>-1.0000</rst:Quantity>
+                    <rst:Product>
+                        <pref:FullName>Вино фруктовое (плодовое) полусладкое "ТОКА 1 РЕД ИЗАБЕЛЬ "</pref:FullName>
+                        <pref:AlcCode>0350182000001284384</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>11.000</pref:AlcVolume>
+                        <pref:ProductVCode>421</pref:ProductVCode>
+                        <pref:Producer>
+                            <oref:UL xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2" xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+                                     xmlns:rst="http://fsrar.ru/WEGAIS/ReplyRestsShop_v2" xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                                <oref:ClientRegId>010015361311</oref:ClientRegId>
+                                <oref:INN>5027191104</oref:INN>
+                                <oref:KPP>502701001</oref:KPP>
+                                <oref:FullName>Общество с ограниченной ответственностью "Гранд Вайн Коллекшн"</oref:FullName>
+                                <oref:ShortName>ООО "Дж-Ви-Си"</oref:ShortName>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>50</oref:RegionCode>
+                                    <oref:description>Россия,,Московская Область,,Люберцы Город,,Хлебозаводская Улица,5 Дом , | Литер Б, подвальный этаж, Помещение № I, №
+                                        на плане 7, 9, 10, 18; 1 этаж, Помещение № I, № на плане 2, 10, 21; 2 этаж, Помещение № I, № на плане 9, 22, 35; 3 этаж, Помещение
+                                        № I, № на плане 1, 2, 3, 4, 8, 10, 11, 15, 22, 23, 26, 27, 31; Литер Б1, 1 этаж, Помещение № I, № на плане 44; Литер Б5, 1 этаж,
+                                        Помещение № I, № на плане 11, 22; Литер Б6, 1 этаж, Помещение № I, № на плане 17, 18, 19, 20; Литер Б7, 1 этаж, Помещение № I, №
+                                        на плане 32; Литер М, 1 этаж, Помещение № 2, № на плане 2, 3, Помещение № 1, № на плане 3; Литер М3, 1 этаж, Помещение № 1, № на
+                                        плане 1; Литер У, 1 этаж, Помещение № I, № на плане 1, 2, 3, 4.
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </rst:Product>
+                </rst:ShopPosition>
+            </rst:Products>
+        </ns:ReplyRestsShop_v2>
+    </ns:Document>
+</ns:Documents>

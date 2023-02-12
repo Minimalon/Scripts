@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:Documents xmlns:awr="http://fsrar.ru/WEGAIS/ActWriteOffShop_v2"
+    xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+    xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+    xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2"
+    xmlns:unqualified_element="http://fsrar.ru/WEGAIS/CommonEnum"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns:Owner>
+    <ns:FSRAR_ID>030000175735</ns:FSRAR_ID>
+  </ns:Owner>
+  <ns:Document>
+    <ns:ActWriteOffShop_v2>
+            <awr:Header>
+                <awr:ActNumber>1673095566</awr:ActNumber>
+                <awr:ActDate>2023-01-07</awr:ActDate>
+                <awr:TypeWriteOff>Реализация</awr:TypeWriteOff>
+            </awr:Header>
+            <awr:Content>
+
+                            <awr:Position>
+                      <awr:Identity>1</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Водка "Стопарик"</pref:FullName>
+                        <pref:AlcCode>0011314000001189456</pref:AlcCode>
+                        <pref:Capacity>0.1000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>40.000</pref:AlcVolume>
+                        <pref:ProductVCode>200</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000120</oref:ClientRegId>
+                            <oref:FullName>1326202276"</oref:FullName>
+                            <oref:ShortName>132601001</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "Ликероводочный завод "Саранский"</oref:INN>
+                            <oref:KPP>ООО "ЛВЗ "Саранский"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>13</oref:RegionCode>
+                              <oref:description>Россия,,Мордовия Республика,,Саранск Город,,Ленина Проспект,58А Дом  ,</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>2</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Напиток винный "Вермут Сальваторе белый"</pref:FullName>
+                        <pref:AlcCode>0014716000001378443</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>15.000</pref:AlcVolume>
+                        <pref:ProductVCode>462</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000274</oref:ClientRegId>
+                            <oref:FullName>4705013292"</oref:FullName>
+                            <oref:ShortName>470501001</oref:ShortName>
+                            <oref:INN>Акционерное общество "Бодегас Вальдепабло-Нева"</oref:INN>
+                            <oref:KPP>АО "Бодегас Вальдепабло-Нева"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>47</oref:RegionCode>
+                              <oref:description>Россия,,Ленинградская Область,,,,,,Гатчинский муниципальный район, Гатчинское городское поселение, город Гатчина, улица Рысева, дом 28 | (первый этаж: помещения 4, 8, 9; второй этаж: помещения 7, 8, 9, 22, 23, 24); дом 28а</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>3</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Напиток винный "Вермут Сальваторе красный"</pref:FullName>
+                        <pref:AlcCode>0014716000001378562</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>15.000</pref:AlcVolume>
+                        <pref:ProductVCode>462</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000274</oref:ClientRegId>
+                            <oref:FullName>4705013292"</oref:FullName>
+                            <oref:ShortName>470501001</oref:ShortName>
+                            <oref:INN>Акционерное общество "Бодегас Вальдепабло-Нева"</oref:INN>
+                            <oref:KPP>АО "Бодегас Вальдепабло-Нева"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>47</oref:RegionCode>
+                              <oref:description>Россия,,Ленинградская Область,,,,,,Гатчинский муниципальный район, Гатчинское городское поселение, город Гатчина, улица Рысева, дом 28 | (первый этаж: помещения 4, 8, 9; второй этаж: помещения 7, 8, 9, 22, 23, 24); дом 28а</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>4</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Вино столовое сухое белое"Шардоне"</pref:FullName>
+                        <pref:AlcCode>0123156000003033577</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>12.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000187</oref:ClientRegId>
+                            <oref:FullName>2352034598"</oref:FullName>
+                            <oref:ShortName>235201001</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "Кубань-Вино"</oref:INN>
+                            <oref:KPP>ООО "Кубань-Вино"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>23</oref:RegionCode>
+                              <oref:description>РОССИЯ,,КРАСНОДАРСКИЙ КРАЙ,Темрюкский р-н,,Старотитаровская ст-ца,Заводская ул,2,,</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>5</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Вино столовое сладкое красное"КАГОР"</pref:FullName>
+                        <pref:AlcCode>0123161000001920703</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>11.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000176</oref:ClientRegId>
+                            <oref:FullName>2352039821"</oref:FullName>
+                            <oref:ShortName>235201001</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "АПК Мильстрим-Черноморские вина"</oref:INN>
+                            <oref:KPP>ООО "АПК Мильстрим-Черноморские вина"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>23</oref:RegionCode>
+                              <oref:description>Россия,,Краснодарский Край,Темрюкский Район,,Виноградный Поселок,Мичурина Улица,5Б Дом  , | (за исключением склада, расположенного в литере И - нежилом здании, на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | (за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>6</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Напиток винный "ЛАЗУРНАЯ ДОЛИНА полусладкий красный"</pref:FullName>
+                        <pref:AlcCode>0123161000001955902</pref:AlcCode>
+                        <pref:Capacity>1.0000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>10.000</pref:AlcVolume>
+                        <pref:ProductVCode>461</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010000000176</oref:ClientRegId>
+                            <oref:FullName>2352039821"</oref:FullName>
+                            <oref:ShortName>235201001</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "АПК Мильстрим-Черноморские вина"</oref:INN>
+                            <oref:KPP>ООО "АПК Мильстрим-Черноморские вина"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>23</oref:RegionCode>
+                              <oref:description>Россия,,Краснодарский Край,Темрюкский Район,,Виноградный Поселок,Мичурина Улица,5Б Дом  , | (за исключением склада, расположенного в литере И - нежилом здании, на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | (за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933 | за исключением склада, расположенного в литере И на 1 этаже, № по плану здания 1 (S=445,6 кв.м); нежилого здания тарного склада и склада готовой продукции, назначение: нежилое, площадь: общая 809,7 кв. м, этажность: 1, инвентарный номер: 31623/Д, кадастровый номер: 23:30:0801003:933</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>8</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Вино столовое полусладкое белое "Шардоне"</pref:FullName>
+                        <pref:AlcCode>0323141000001285825</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>12.000</pref:AlcVolume>
+                        <pref:ProductVCode>403</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010060692492</oref:ClientRegId>
+                            <oref:FullName>2352034598"</oref:FullName>
+                            <oref:ShortName>235245003</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "Кубань-Вино"</oref:INN>
+                            <oref:KPP>ООО "Кубань-Вино"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>23</oref:RegionCode>
+                              <oref:description>РОССИЯ,,КРАСНОДАРСКИЙ КРАЙ,Темрюкский р-н,Темрюк г,,Западная ул, 35,, | (склад готовой продукции, кадастровый номер 23:30:1101018:59) | (склад готовой продукции, кадастровый номер 23:30:11018:59)</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    
+                            <awr:Position>
+                      <awr:Identity>9</awr:Identity>
+                      <awr:Quantity>-1.0000</awr:Quantity>
+                      <awr:Product>
+                        <pref:FullName>Вино фруктовое (плодовое) полусладкое "ТОКА 1 РЕД ИЗАБЕЛЬ "</pref:FullName>
+                        <pref:AlcCode>0350182000001284384</pref:AlcCode>
+                        <pref:Capacity>0.7000</pref:Capacity>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:AlcVolume>11.000</pref:AlcVolume>
+                        <pref:ProductVCode>421</pref:ProductVCode>
+                        <pref:Producer>
+                          <oref:UL>
+                            <oref:ClientRegId>010015361311</oref:ClientRegId>
+                            <oref:FullName>5027191104"</oref:FullName>
+                            <oref:ShortName>502701001</oref:ShortName>
+                            <oref:INN>Общество с ограниченной ответственностью "Гранд Вайн Коллекшн"</oref:INN>
+                            <oref:KPP>ООО "Дж-Ви-Си"</oref:KPP>
+                            <oref:address>
+                              <oref:Country>643</oref:Country>
+                              <oref:RegionCode>50</oref:RegionCode>
+                              <oref:description>Россия,,Московская Область,,Люберцы Город,,Хлебозаводская Улица,5 Дом  , | Литер Б, подвальный этаж, Помещение № I, № на плане 7, 9, 10, 18; 1 этаж, Помещение № I, № на плане 2, 10, 21; 2 этаж, Помещение № I, № на плане 9, 22, 35; 3 этаж, Помещение № I, № на плане 1, 2, 3, 4, 8, 10, 11, 15, 22, 23, 26, 27, 31; Литер Б1, 1 этаж, Помещение № I, № на плане 44; Литер Б5, 1 этаж, Помещение № I, № на плане 11, 22; Литер Б6, 1 этаж, Помещение № I, № на плане 17, 18, 19, 20; Литер Б7, 1 этаж, Помещение № I, № на плане 32; Литер М, 1 этаж, Помещение № 2, № на плане 2, 3, Помещение № 1, № на плане 3; Литер М3, 1 этаж, Помещение № 1, № на плане 1; Литер У, 1 этаж, Помещение № I, № на плане 1, 2, 3, 4.</oref:description>
+                            </oref:address>
+                          </oref:UL>
+                        </pref:Producer>
+                      </awr:Product>
+                    </awr:Position>
+                    			</awr:Content>
+        </ns:ActWriteOffShop_v2>
+    </ns:Document>
+</ns:Documents>

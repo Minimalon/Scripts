@@ -1,0 +1,14 @@
+2022-12-27 20:34:17,681 18082 164603955249 1-1 - Creating
+2022-12-27 21:02:45,570 18082 163200053013 1-1 - Бутылок на пивных остатках: 55698
+2022-12-27 21:02:45,570 18082 163200053013 1-1 - module 'os' has no attribute 'uname'
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\Scripts\beerBalance\start.py", line 150, in <module>
+    if not utm.get_cash_info()["KPP"]:
+  File "C:\Users\User\PycharmProjects\Scripts\beerBalance\start.py", line 125, in end_kvartal
+  File "C:\Users\User\PycharmProjects\Scripts\beerBalance\start.py", line 113, in main
+    ReplyRest = utm.wait_anwser(utm.send_QueryRests_v2())
+  File "C:\Users\User\PycharmProjects\Scripts\beerBalance\start.py", line 61, in notification
+    if not check_work_days_blackPClist():
+  File "C:\Users\User\PycharmProjects\Scripts\beerBalance\start.py", line 21, in check_work_days_blackPClist
+    name = os.uname()[1].split("-")[1]
+AttributeError: module 'os' has no attribute 'uname'

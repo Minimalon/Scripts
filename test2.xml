@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:Documents Version="1.0"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ns="http://fsrar.ru/WEGAIS/WB_DOC_SINGLE_01"
+              xmlns:pref="http://fsrar.ru/WEGAIS/ProductRef_v2"
+              xmlns:oref="http://fsrar.ru/WEGAIS/ClientRef_v2"
+              xmlns:awr="http://fsrar.ru/WEGAIS/ActWriteOffShop_v2"
+              xmlns:ce="http://fsrar.ru/WEGAIS/CommonEnum"
+>
+    <ns:Owner>
+        <ns:FSRAR_ID>010000000435</ns:FSRAR_ID>
+    </ns:Owner>
+    <ns:Document>
+        <ns:ActWriteOffShop_v2>
+            <awr:Identity>456</awr:Identity>
+            <awr:Header>(1.18.4)
+                <awr:ActNumber>10</awr:ActNumber>
+                <awr:ActDate>2015-10-08</awr:ActDate>
+                <awr:TypeWriteOff>Недостача</awr:TypeWriteOff>
+                <awr:Note>текст комментария</awr:Note>
+            </awr:Header>
+            <awr:Content>
+                <awr:Position>
+                    <awr:Identity>1</awr:Identity>
+                    <awr:Product>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:Type>АП</pref:Type>
+                        <pref:FullName>Ликерка 0.3500 л.</pref:FullName>
+                        <pref:AlcCode>0017854000001189843</pref:AlcCode>
+                        <pref:Capacity>0.350</pref:Capacity>
+                        <pref:Producer>
+                            <oref:UL>
+                                <oref:ClientRegId>01149896</oref:ClientRegId>
+                                <oref:FullName>ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО "СВАРОГ"</oref:FullName>
+                                <oref:ShortName>ЗАО "СВАРОГ"</oref:ShortName>
+                                <oref:INN>7803011250</oref:INN>
+                                <oref:KPP>784401001</oref:KPP>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>78</oref:RegionCode>
+                                    <oref:description>643,197110,С-ПЕТЕРБУРГ,,,,ПЕТРОВСКАЯ КОСА УЛ,1,1,ЛИТ. А</oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                        <pref:ProductVCode>АП</pref:ProductVCode>
+                    </awr:Product>
+                    <awr:Quantity>2</awr:Quantity>
+                </awr:Position>
+                <awr:Position>
+                    <awr:Identity>2</awr:Identity>
+                    53
+                    <awr:Product>
+                        <pref:UnitType>Packed</pref:UnitType>
+                        <pref:Type>АП</pref:Type>
+                        <pref:FullName>Коньяк "Вершины Кавказа" 5-ти летний 1.0000 л.</pref:FullName>
+                        <pref:ShortName/>
+                        <pref:AlcCode>0017878000001312143</pref:AlcCode>
+                        <pref:Capacity>1.000</pref:Capacity>
+                        <pref:ProductVCode>АП</pref:ProductVCode>
+                        <pref:Producer>(1.18.4)
+                            <oref:UL>
+                                <oref:ClientRegId>01151479</oref:ClientRegId>
+                                <oref:FullName>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СЕВЕР"</oref:FullName>
+                                <oref:ShortName>ООО "СЕВЕР"</oref:ShortName>
+                                <oref:INN>7805367340</oref:INN>
+                                <oref:KPP>780501001</oref:KPP>
+                                <oref:address>
+                                    <oref:Country>643</oref:Country>
+                                    <oref:RegionCode>78</oref:RegionCode>
+                                    <oref:description>643,196240,САНКТ-ПЕТЕРБУРГ Г,,,,ПРЕДПОРТОВАЯ УЛ,6,ЛИТ. Ж,ПОМ. №10 В
+                                        ПОМ.3Н
+                                    </oref:description>
+                                </oref:address>
+                            </oref:UL>
+                        </pref:Producer>
+                    </awr:Product>
+                    <awr:Quantity>1</awr:Quantity>
+                    <awr:MarkCodeInfo>
+                        <MarkCode>09001785400000118984312PX905150010000012515518222446177313434237912077</MarkCode>
+                    </awr:MarkCodeInfo>
+                </awr:Position>
+            </awr:Content>
+        </ns:ActWriteOffShop_v2>
+    </ns:Document>
+</ns:Documents>
